@@ -1,0 +1,175 @@
+{
+  "overview": [
+    "I am a generalist who has been a front-end app and game developer, a back-end developer, a game and UX designer, a tech lead, and an interim manager. I enjoy crafting user interfaces, building web apps and games, and acquiring new skills.",
+    "I am accustomed to picking up new tech as needed. On the job learning has included HTML, CSS, JavaScript, SVG, Angular, Angular Material, NgRx, Node/Express, SQL, Java, Python, ActionScript, Xcode, Objective-C, Unity, C#, Balsamiq, Docker, AWS, and Azure.",
+    "I am currently seeking a position in front-end web app development, possibly full stack."
+  ],
+  "experience": [
+    {
+      "header": "Education",
+      "title": [
+        "Bachelor of Science, Computer Science",
+        "Cal Poly State University, San Luis Obispo"
+      ]
+    },
+    {
+      "header": "Caidya, Morrisville, NC (Remote)",
+      "title": [
+        "Sr. Software Developer",
+        "Sep 2018 – Jun 2023"
+      ],
+      "projects": [
+        {
+          "description": "Caidya is a clinical research organization, and manages clinical trials for a number of clients.",
+          "highlights": [
+            "Maintained and improved TEMPO, an internally developed electronic data collection suite written in Java.",
+            "Managed TEMPO production build and release for dozens of clinical studies.",
+            "Designed and implemented Angular front end for collecting drug safety data.",
+            "Implemented Express server for Angular front end, and handed over to co-worker for further development.",
+            "Managed Azure cloud services for build and deploy of Angular front end and Express back end."
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Ygrene Energy Fund, Santa Rosa, CA (Remote)",
+      "title": [
+        "Sr. Software Developer & Technical Lead",
+        "Sep 2014 – Feb 2018"
+      ],
+      "projects": [
+        {          
+          "description": "Ygrene provides funding for energy efficient home improvements under the PACE financing program.",
+          "highlights": [
+            "Designed and implemented several financial and operational web applications, using Angular.",
+            "Managed and mentored half a dozen junior developers and interns.",
+            "Managed front-end AWS cloud services."
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Worldspinner, Seattle, WA (Remote, Part-time)",
+      "title": [
+        "Sr. Software Developer (Contract)",
+        "Feb 2014 – Jan 2016"
+      ],
+      "projects": [
+        {          
+          "description": "Worldspinner was a web-based world building service for tabletop RPGs, built with Angular.",
+          "highlights": [
+            "Designed and implemented the web application, which walked a user through creation and configuration of a world and renders an interactive map using SVG."
+          ]
+        }
+      ]
+    },
+    {
+      "header": "MTV/Nickelodeon, San Francisco, CA",
+      "title": [
+        "Sr. Software Developer",
+        "Mar 2011 – Oct 2013"
+      ],
+      "projects": [
+        {          
+          "description": "Capital City and SpongeBob were city building games for Facebook, built with Flash and ActionScript.",
+          "highlights": [
+            "Implemented sound manager for both games, and integrated music and sound FX provided by audio engineer.",
+            "Fine-tuned the UX of Capital City.",
+            "Wrote narrative for Capital City."
+          ]
+        },
+        {
+          "description": "Grumpy Wizard was a tower-building game for iOS, built with Unity and C#.",
+          "highlights": [
+            "Implemented the sound manager, and integrated music and sound FX provided by audio engineer.",
+            "Implemented native iOS and in-game support for Game Center and in-app purchases.",
+            "Worked on various aspects of the game including, mail support for friend invites, an event dispatcher for Unity, and fine-tuning of the UX."
+          ]
+        },
+        {
+          "description": "Worked on other game titles, as needed.",
+          "highlights": [
+            "Implemented in-game support for iOS app store for a SpongeBob city building game, built with Unity.",
+            "Fine-tuning of the UX for Dora the Explorer and Team Umizoomi educational games for kids."
+          ]
+        },
+        {
+          "description": "Managed our build system for several months, following the closure of the San Francisco office.",
+          "highlights": [
+            "Managed the Jenkins build system for several iOS and Android games.",
+            "Managed the iOS and Kindle Fire developer portals, including submission and release of games on the Apple and Amazon app stores."
+          ]
+        }
+      ]
+    },
+    {
+      "header": "The Multiverse Network, Mountain View, CA",
+      "title": [
+        "Sr. Software Developer & Game Designer (Contract)",
+        "Jun 2008 – Nov 2010"
+      ],
+      "projects": [
+        {
+          "description": "Team Battle was a 4v4-player arena combat game for Facebook and Kongregate, written in ActionScript.",
+          "highlights": [
+            "Fine-tuned or replaced existing UI, and built a new UX for character creation and team selection."
+          ]
+        },
+        {
+          "description": "AVTR Advanced Team was a promotional Facebook game for James Cameron’s Avatar, written in ActionScript.",
+          "highlights": [
+            "Built UX including audio, display of art assets, floating health and damage numbers, overall UI, and integration with Facebook for invitations and group play with friends."
+          ]
+        },
+        {
+          "description": "Warbase was a military-themed city building game on Facebook, written in ActionScript.",
+          "highlights": [
+            "Designed and implemented game play and UX, including display of art assets, playing of audio, dialogs, narrative, the user tutorial, and the world battle map, as well as integration with Facebook for invitations and play with friends."
+          ]
+        },
+        {
+          "description": "Multiverse Places was a social MMO, built on the Multiverse toolkit and written in C#, Java, and Python.",
+          "highlights": [
+            "Configured render servers for on-demand processing of machinima.",
+            "Implemented token security, allowing JSPs to verify requests to add/remove friends, edit profiles, etc.",
+            "Implemented assorted player features including an in-game stereo for streaming internet radio, player ignore functionality, and support for admins and room owners to kick players from rooms."
+          ]
+        },
+        {
+          "description": "Titanic Online was a proposed venture with James Cameron, to be built with the Multiverse toolkit.",
+          "highlights": [
+            "Built a virtual world with a Titanic model at sea, and created a demo video for Cameron, with an avatar exploring the deck of the ship."
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Personal Projects",
+      "projects": [
+        {
+          "highlights": [
+            "A Frogger-inspired \"endless hopper\" for Oculus, to learn the basics of VR development.",
+            "An Angular app to manage player characters for the Feng Shui tabletop RPG.",
+            "An Oculus exploration of the Titanic."
+          ]
+        }
+      ]
+    },
+    {
+      "header": "xxx",
+      "title": [
+        "xxx",
+        "xxx"
+      ],
+      "projects": [
+        {
+          "description": "xxx",
+          "highlights": [
+            "xxx",
+            "xxx"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+@use 'defaults';
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 2rem;
+}
+
+main section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 42rem;
+  padding: 0 1rem;
+}
+
+section.overview {
+  margin-block-end: 1rem;
+  text-align: justify;
+  p {
+    margin-block-end: 0;
+  }
+}
+
+section.experience {
+  p {
+    margin-block-start: 0;
+    margin-block-end: 1rem;
+  }
+  h3 {
+    text-decoration: underline;
+  }
+  ul {
+    margin-block-start: 0;
+    padding-inline-start: 0.8rem;
+  }
+  &.hidden {
+    display: none;
+  }
+}

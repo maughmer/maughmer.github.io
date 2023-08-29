@@ -1,0 +1,15 @@
+{
+  "name": "github.io",
+  "version": "1.0.0",
+  "description": "Mike Maughmer's github.io profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass --watch .:. --no-source-map"
+  },
+  "author": "Mike Maughmer",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "sass": "^1.64.2"
+  }
+}
