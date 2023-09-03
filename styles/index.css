@@ -170,3 +170,12 @@ noscript div {
   text-align: center;
   padding-top: 0.5rem;
 }
+
+@media (max-width: 375px) and (max-height: 667px) {
+  body {
+    background-color: var(--bg-start);
+    background-image: none;
+    background-repeat: unset;
+    background-attachment: unset;
+  }
+}

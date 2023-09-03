@@ -108,3 +108,19 @@ noscript div {
   text-align: center;
   padding-top: 0.5rem;
 }
+
+//
+// iOS doesn't handle background-attachment correctly, so on a device
+// the size of an iPhone SE, my content will scroll and the background
+// will repeat. instead i'll just disable it for devices of that size,
+// and stick with a basic light grey background. the problem may repeat
+// on other devices, but i can't conveniently test them all.
+//
+@media (max-width: 375px) and (max-height: 667px) {
+  body {
+    background-color: var(--bg-start);
+    background-image: none;
+    background-repeat: unset;
+    background-attachment: unset;
+  }  
+}
